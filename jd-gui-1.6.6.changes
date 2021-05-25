@@ -1,0 +1,19 @@
+Format: 1.8
+Date: Sat, 13 Jun 2020 23:02:51 +0300
+Source: jd-gui
+Binary: jd-gui
+Architecture: all
+Version: 1.6.6-0
+Urgency: low
+Maintainer: Emmanuel Dupuy <emmanue1@users.noreply.github.com>
+Changed-By: Emmanuel Dupuy <emmanue1@users.noreply.github.com>
+Description:
+ jd-gui - A Java Decompiler
+Changes:
+ jd-gui (1.6.6-0) ; urgency=low
+Checksums-Sha1:
+ 0dcee16baec8d44804e9e950f047918df294e97e 1336348 jd-gui-1.6.6.deb
+Checksums-Sha256:
+ 5d75aeb7d7294aa1d420dc212a5193e6c31ca7da09eb3a07f7d56239bef5c2fd 1336348 jd-gui-1.6.6.deb
+Files:
+ 786375a49e65241349e3df681f24cb5b 1336348 java optional jd-gui-1.6.6.deb
